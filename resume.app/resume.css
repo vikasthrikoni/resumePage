@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+    .bg-container {
+        background-color: #ff899b;
+        padding: 14px;
+    
+    }
+    
+
+
+.text-style {
+    color: #17267b;
+    font-family: Century Gothic;
+    font-size: 16px;
+    text-align: center;
+}
+
+.profile-container {
+    margin: 10px;
+    justify-content: center;
+    height: 180px;
+}
+
+.name-container {
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+
+}
+
+.name-style {
+    color: #17267b;
+    font-family: Century Gothic;
+    font-weight: bold;
+}
+
+.para-style {
+    color: #17267b;
+    font-family: Century Gothic;
+    font-size: 14px;
+}
+
+.para-container {
+    padding: 10px;
+    justify-content: center;
+}
+
+
+.edu-style {
+    color: #17267b;
+    font-family: Century Gothic;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.educations {
+    padding: 10px;
+    justify-content: flex-end;
+}
+
+.edutext {
+    color: #17267b;
+    font-family: Century Gothic;
+    font-size: 12px;
+
+}
+
+.logo-style {
+    color: #17267b;
+    font-family: Century Gothic;
+    font-size: 17px;
+}
+
+.intr-container {
+    padding: 14px;
+    align-items: center;
+
+}
+
+.hr-line {
+    width: 82%;
+    height: 3px;
+    background-color: #17267b;
+    position: relative;
+    left: 6%;
+    right: 9%;
+
+}
+
+.middle-line {
+    height: 100%;
+    width: 5px;
+    background-color: #17267b;
+    position: relative;
+
+
+}
+
+.middle-line2 {
+    height: 112%;
+    width: 5px;
+    background-color: #17267b;
+    position: relative;
+    bottom: 12%;
+
+}
+
+.icon {
+    font-size: 75px;
+    font-weight: 700;
+}
