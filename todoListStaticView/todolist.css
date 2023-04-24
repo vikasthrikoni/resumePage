@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-heading {
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.caption {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: lighter;
+}
+
+.side-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+.paragraph {
+    color: white;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: lighter;
+
+}
+
+.ending {
+    text-align: center;
+}
+
+.button {
+    background-color: orange;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    height: 35px;
+    width: 75px;
+    padding: 5px;
+
+
+}
+
+.endline {
+    color: white;
+    font-size: 13px;
+    font-family: "Roboto";
+    font-weight: 200;
+    text-decoration: underline;
+}
